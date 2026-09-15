@@ -26,6 +26,8 @@ A simple Python application that demonstrates secure password hashing and authen
 
 1. Install Python.
 2. Install the bcrypt library:
+## Author
 
+Thakshila Prasadani
 ```bash
 pip install bcrypt# password-hashing
